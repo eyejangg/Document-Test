@@ -16,6 +16,8 @@ Repository นี้จัดทำขึ้นเพื่อรวบรวม
 | 4 | [กรณีทดสอบระบบ (Test Cases)](SPRS-Test-Cases-SHARE-ED-lasted.docx) | เอกสารชุดกรณีทดสอบ ขั้นตอนการทดสอบ และผลลัพธ์ที่คาดหวัง |
 | 5 | [เอกสารการทดสอบ API ด้วย Postman](Share-ed-Postman-API-Test-Document-NPRU.docx) | เอกสารการทดสอบ Backend API โดยใช้ Postman |
 
+Test Case Google Sheet **https://docs.google.com/spreadsheets/d/1iMx6hw7qZ9X4MU41BuvWgbgE3jcmv9vKXZJ-PA_P_cw/edit?usp=sharing**
+
 ## ข้อมูลเวอร์ชัน
 
 - **ชื่อโครงการ:** SHARE-ED
